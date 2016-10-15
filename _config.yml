@@ -82,23 +82,10 @@ collections:
 #      Socials     #
 # ---------------- #
 github_username: SwiftLOL
-douban_username: SwiftLOL
-facebook_username: SwiftLOL
-weibo_username: SwiftLOL
-zhihu_username: SwiftLOL
-twitter_username: SwiftLOL
 
-# ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: disqus, duoshuo
-comments_provider: disqus
-# !!!重要!!! 请修改下面两个用户名为你自己申请的
-# !!!Important!!! Please modify usernames below to yours
-duoshuo_username: SwiftLOL
-disqus_username: SwiftLOL
-# 在使用 disqus 的时候可点击显示多说评论框
-lazy_load_duoshuo: true
+
+
+
 
 # ---------------- #
 #    Analytics     #
@@ -109,6 +96,5 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Objective-c, C++, H5, CSS3]
+skill_software_keywords: [Objective-c, C++, H5, CSS3, Node.js]
 skill_mobile_app_keywords: [IOS, FE]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
