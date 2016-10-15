@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript初识
+title: Javascript面向对象编程－－初识
 categories: Javascript
 description: Javascript入门了解
 keywords: Javascript, OOP
