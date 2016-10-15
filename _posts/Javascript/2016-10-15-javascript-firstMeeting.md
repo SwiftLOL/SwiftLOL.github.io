@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: post
 title: Javascript初识
 categories: Javascript
 description: Javascript入门了解
