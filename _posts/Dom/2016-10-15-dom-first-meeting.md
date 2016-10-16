@@ -1,9 +1,9 @@
 ---
 layout: post
 title: DOM编程艺术－－初识
-categories: DOM编程艺术
+categories: DOM
 description: DOM的概念及介绍
-keywords: DOM
+keywords: DOM编程艺术
 ---
 
 
