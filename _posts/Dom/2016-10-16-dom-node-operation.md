@@ -8,9 +8,9 @@ keywords: DOM编程艺术
 
 
 # Overview
+DOM为我们提供了一些获取指定元素的api,比如getElementsByTagName、getElementById等等，除这些api之外，HTMLElement元素也为我们提供了一组API。
 
-DOM为我们提供了一些获取指定元素的api,比如getElementsByTagName、getElementById等等，除这些api之外，HTMLElement元素也为我们提供了一组API:
-
+主要内容：
 * childNodes
 * nodeType
 * nodeValue
