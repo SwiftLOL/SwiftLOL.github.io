@@ -8,6 +8,7 @@ keywords: CSS、Selector
 
 <style type="text/css">
 code {color: rgb(135,185,98) !important;}
+em {color: rgb(184,92,213) !important;}
 </style>
 ## Overview
   CSS通过使用一组样式声明应用在一组元素上，来改变对应元素的表现。所有在我们装饰页面的时候，需要通过一种方式来指定一组元素、声明一组样式命令。CSS为我们提供了CSS选择器和样式声明块来实现这个目的。
